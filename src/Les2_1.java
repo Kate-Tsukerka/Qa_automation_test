@@ -8,6 +8,6 @@ public class Les2_1 {
 
     public static void main(String[] args) {
         int f=sumOfThreeNumbers(1, 2, 3);
-        System.out.println(f);
+//        System.out.println(f);
     }
 }
